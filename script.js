@@ -1,9 +1,7 @@
-let i = 2;
-let cars = cars.length;
-let text = "";
+var i = 5;
 
-for (let i = 0; i < cars.length; i++) {
-	text += cars[i]
+for (var i = 0; i < 10; i++) {
+
 }
 
-console.log(cars)
+// here i is 10
